@@ -1,29 +1,5 @@
-# README #
+# Algorithms and Data Structures
+This repository contains the implementation of Data Structures - LinkedList, Heaps, Trees and Stacks and  several important Algorithms - Searching, Sorting, Recursion, Binary Search Trees, Graph Algorithms, Dynamic Programming from scratch in Java.
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+# Install
+All the projects in this repository requires Java 1.8+ and any JavaEE IDE such as (Eclipse/IntelliJ/Netbeans).
